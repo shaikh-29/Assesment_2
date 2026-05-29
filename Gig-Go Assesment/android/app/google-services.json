@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "655183971973",
+    "project_id": "native-assesment",
+    "storage_bucket": "native-assesment.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655183971973:android:1c685f4efe5350a7e6cbec",
+        "android_client_info": {
+          "package_name": "com.example.gig_go_assesment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBphHSXtzHs63aI0hwjsRrJo_HeSZ_ZrTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655183971973:android:86e1a609fcf84122e6cbec",
+        "android_client_info": {
+          "package_name": "com.example.nativeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBphHSXtzHs63aI0hwjsRrJo_HeSZ_ZrTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
